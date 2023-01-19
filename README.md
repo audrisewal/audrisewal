@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @audrisewal
-- 👀 I’m interested in ...astrophysics
-- 🌱 I’m currently learning ...physics
+- 👀 I’m interested in ...computer science
+- 🌱 I’m currently learning ...java, discrete math
 - 💞️ I’m looking to collaborate on ...our code
 - 📫 How to reach me ...https://www.linkedin.com/in/audrisewal/
 
